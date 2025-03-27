@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #F3F3F3;
+    margin: auto;
+    width: 1120px;
+}
+
+header {
+    display: flex;
+    padding-top: 102px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 97%;
+    color: #181717;
+}
+
+header nav {
+    display: flex;
+    gap: 30px;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    color: #181717;
+}
+
+.title {
+    margin-top: 147px;
+}
+
+
+.title .gen {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title .gen .text h1 {
+    width: 480px;
+    /* height: 116px; */
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 97%;
+    color: #181717;
+}
+
+.title .gen .text .first {
+    margin-top: 47px;
+    width: 575px;
+    height: 196px;
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 117%;
+    color: #606060;
+}
+
+.title .gen .text .text1 {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 117%;
+    color: #606060;
+    width: 575px;
+    
+}
+
+
+
+.subtitle .second .title1 {
+    display: flex;
+    margin-top: 148px;
+
+
+}
+
+.subtitle .second .title1 h3 {
+    width: 124px;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 122%;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    color: #181717;
+
+}
+
+.subtitle .second .title1 p {
+    width: 436px;
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 122%;
+    color: #181717;
+    margin-left: 63px;
+}
+
+.subtitle .second2 .title2 {
+    display: flex;
+    margin-top: 143px;
+}
+
+.subtitle .second2 .title2 h3 {
+    width: 124px;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 122%;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    color: #181717;
+
+}
+
+.subtitle .second2 .title2 p {
+    width: 400px;
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 122%;
+    color: #181717;
+    margin-left: 63px;
+}
+
+.line {
+    width: 1120px;
+    height: 2px;
+    background: #181717;
+    margin-top: 110px;
+
+}
+
+.bottom {
+    margin-top: 71px;
+
+}
+
+
+.bottom .general {
+    display: flex;
+}
+
+.bottom .general .inf {
+    display: flex;
+    align-items: baseline;
+}
+
+.bottom .general .inf p {
+    width: 347px;
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    color: #181717;
+}
+
+.bottom .general .inf .pict {
+    margin-left: 41px;
+}
+
+.bottom .general .end .email {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    color: #181717;
+    margin-left: 392px;
+}
+
+footer {
+    margin-top: 135px;
+    padding-bottom: 172px;
+}
+
+footer .finish {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .finish .name {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    color: #2429AF;
+
+}
+
+footer .finish .end {
+    display: flex;
+    gap: 31px;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    color: #181717;
+
+}

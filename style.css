@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+body {
+    background: #F3F3F3;
+width: 1120px;
+margin: auto;
+}
+
+header {
+    padding-top: 93px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+header div {
+    display: flex;
+    gap: 30px;
+    
+
+}
+
+header div p {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    color: #181717;
+
+}
+
+head h1 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 97%;
+    color: #181717;
+
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 128px;
+
+}
+
+.first .pic {
+    margin-top: 128px;
+}
+
+.first h1 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 97%;
+    color: #181717;
+
+}
+
+.first p {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    color: #000000;
+
+}
+
+.product1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 83px;
+
+
+
+}
+
+.product1 .right {
+    width: 640px;
+    height: 364px;
+    background-color: #606060;
+
+}
+
+.product1 .left .top {
+
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 122%;
+    color: #181717;
+
+}
+
+.product1 .left .mid {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 122%;
+    color: #181717;
+    margin-top: 25px;
+
+
+}
+
+.product1 .left .bot {
+    font-family: DM Sans;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 122%;
+    color: #606060;
+    margin-top: 50px;
+
+
+}
+
+.product1 .left .end {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 122%;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 0%;
+    color: #181717;
+    margin-top: 160px;
+
+}
+
+.line {
+    width: 100%;
+    background-color: #181717;
+    height: 2px;
+    margin-top: 80px;
+}
+
+.navi {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navi .ver {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+color: #2429AF;
+margin-top: 126px;
+padding-bottom: 116px;
+}
+
+.navi .niz {
+    display: flex;
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+line-height: 120%;
+color: #181717;
+padding-bottom: 116px;
+gap: 32px;
+margin-top: 128px;
+padding-right: 160px;
+
+}
